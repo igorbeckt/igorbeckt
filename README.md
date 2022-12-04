@@ -1,4 +1,5 @@
-                                                       OLÁ, SOU O IGOR NASCIMENTO
+                                                      Olá, eu sou o Igor Nascimento. 
+                       Um desenvolvedor que ama aplicar seu conhecimento para resolver problemas e criar produtos incríveis.
 
 <div align="center">
   <a href="https://github.com/igorbeckt">
